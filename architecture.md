@@ -2,7 +2,7 @@
 
 ## Architecture Model
 
-The architecture model adopted was XXX \(MVC, MVP, MVVM, ...\)
+The architecture model adopted was XXX (MVC, MVP, MVVM, ...)
 
 Explain the logic between layers
 
@@ -11,11 +11,19 @@ Explain the logic between layers
 * C
 * D
 
-![Arquitetura da Solu&#xE7;&#xE3;o](.gitbook/assets/image.png)
+<figure><img src=".gitbook/assets/image-arquitecture.png" alt=""><figcaption></figcaption></figure>
 
-Explain layer abstractions \(i.e. each layer and "explode"\)
+Explain layer abstractions (i.e. each layer and "explode")
 
-![](.gitbook/assets/image%20%281%29.png)
+<div>
+
+<img src=".gitbook/assets/image%20(1).png" alt="">
+
+ 
+
+<figure><img src=".gitbook/assets/image-arquitecture-layers.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Logical View
 
