@@ -13,3 +13,5 @@ This repository aims to present and describe the project called BingeBoss, provi
 ## [Tests and Validation](tests.md)
 
 ## [Postmortem](postmortem.md)
+
+## [Code](code.md)
