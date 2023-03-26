@@ -4,6 +4,8 @@ This repository aims to present and describe the project called BingeBoss, provi
 
 ## [Product Canvas](product-canvas.md)
 
+## [Is, Isn't, Does and Doesn't Diagram](is-isnt-does-doesnt.md)
+
 ## [Release Planning](release-planning.md)
 
 ## [Architecture](architecture.md) 
