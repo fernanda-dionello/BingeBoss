@@ -17,3 +17,5 @@ This repository aims to present and describe the project called BingeBoss, provi
 ## [Postmortem](postmortem.md)
 
 ## [Code](code.md)
+
+## [benchmark.md](benchmark.md "mention") <a href="#benchmark" id="benchmark"></a>
