@@ -10,7 +10,11 @@ This repository aims to present and describe the project called BingeBoss, provi
 
 ## [Code](code.md)
 
+## [discovery.md](discovery.md "mention")
+
 ## [elevator-pitch.md](elevator-pitch.md "mention")
+
+## [epics-use-cases-and-backlog-list.md](epics-use-cases-and-backlog-list.md "mention")
 
 ## [Is, Isn't, Does, Doesn't diagram](is-isnt-does-doesnt.md)
 

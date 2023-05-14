@@ -9,3 +9,5 @@
 * [Personas](personas.md)
 * [Elevator Pitch](elevator-pitch.md)
 * [Priorization x Effort](priorization-x-effort.md)
+* [Discovery](discovery.md)
+* [Epics, Use Cases and Backlog List](epics-use-cases-and-backlog-list.md)
