@@ -6,4 +6,4 @@
 * [Is, Isn't, Does and Doesn't Diagram](is-isnt-does-doesnt.md)
 * [Release Planning](release-planning.md)
 * [Benchmark](benchmark.md)
-* [Page 1](page-1.md)
+* [Personas](personas.md)

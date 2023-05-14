@@ -18,4 +18,6 @@ This repository aims to present and describe the project called BingeBoss, provi
 
 ## [Code](code.md)
 
-## [benchmark](benchmark.md "mention") <a href="#benchmark" id="benchmark"></a>
+## [benchmark.md](benchmark.md "mention") <a href="#benchmark" id="benchmark"></a>
+
+[personas.md](personas.md "mention")
