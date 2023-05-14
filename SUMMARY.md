@@ -7,3 +7,5 @@
 * [Release Planning](release-planning.md)
 * [Benchmark](benchmark.md)
 * [Personas](personas.md)
+* [Elevator Pitch](elevator-pitch.md)
+* [Priorization x Effort](priorization-x-effort.md)
