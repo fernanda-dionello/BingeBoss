@@ -4,7 +4,7 @@ This repository aims to present and describe the project called BingeBoss, provi
 
 ## [Architecture](architecture.md)
 
-## [benchmark.md](benchmark.md "mention") <a href="#benchmark" id="benchmark"></a>
+## [Benchmark](benchmark.md "mention") <a href="#benchmark" id="benchmark"></a>
 
 ## [Canvas MVP](canvas-mvp.md)
 
@@ -21,3 +21,5 @@ This repository aims to present and describe the project called BingeBoss, provi
 ## [Personas](personas.md "mention") <a href="#personas" id="personas"></a>
 
 ## [Priorization x Effort](priorization-x-effort.md "mention") <a href="#personas" id="personas"></a>
+
+## [Schemas Diagram](schemas.md)
